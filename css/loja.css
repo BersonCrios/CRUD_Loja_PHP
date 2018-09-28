@@ -1,0 +1,11 @@
+body{
+    padding-top: 10px;
+}
+.principal{
+    padding: 40px 15px;
+    text-align: center;
+}
+
+.formBtn{
+    display: inline !important;
+}
